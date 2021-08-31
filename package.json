@@ -1,0 +1,25 @@
+{
+  "name": "lab-mongo-crunchbase-1",
+  "version": "1.0.0",
+  "description": "![Ironhack Logo](https://i.imgur.com/1QgrNNw.png)",
+  "main": "index.js",
+  "dependencies": {
+    "clear": "^0.1.0",
+    "mongodb": "^2.2.36",
+    "package": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lexadiaz120/lab-mongo-crunchbase-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lexadiaz120/lab-mongo-crunchbase-1/issues"
+  },
+  "homepage": "https://github.com/Lexadiaz120/lab-mongo-crunchbase-1#readme"
+}
